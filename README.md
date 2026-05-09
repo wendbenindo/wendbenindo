@@ -19,15 +19,6 @@
   <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
-
-<h2 align="center"> GitHub Stats</h2>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wendbenindo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wendbenindo&layout=compact&theme=radical"/>
-</p>
-
----
 
 <h2 align="center">🏆 Achievements</h2>
 <p align="center">
